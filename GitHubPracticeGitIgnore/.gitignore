@@ -1,0 +1,13 @@
+HELP.md
+/target
+/src/test/java
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS - Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
